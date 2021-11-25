@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arijit238
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science prtojects
 - 📫 How to reach me : arijit238@gmail.com
 
 <!---
